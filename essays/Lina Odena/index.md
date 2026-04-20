@@ -1,8 +1,8 @@
 ---
 title: "Lina Odena"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/lina_odena_1.jpg
+thumbnail: images/lina_odena_1.jpg
 position: 1
 summary: Lina Odena was the most famous miliciana during the Spanish Civil War.
 ---
