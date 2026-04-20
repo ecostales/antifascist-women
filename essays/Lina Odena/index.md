@@ -13,7 +13,7 @@ Before the Spanish arrived, before the United States existed, before the concept
 
 The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
 
-## Spanish Civl War Context
+## Spanish Civil War Context
 
 {% capture chile_origins_text %}
 Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
