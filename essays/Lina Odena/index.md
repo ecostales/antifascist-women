@@ -22,7 +22,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/lina_odena_1.jpg"
   image-position="left"
   image-width="48%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
@@ -35,11 +35,11 @@ When Spanish conquistadors arrived in the 16th century, they encountered chiles 
 
 
 ## Early Life
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+Odena was an active member of the communists party and participated in politics. She was the leader of the Juventudes Socialistas Unificadas (JSU), which is the Communist Youth Movement. This organization was a part of the Communist Party in Spain. 
 
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
+She was also the Secretary General of the National Committee of Antifascist Women. Her participation in these organizations had her recognize the threat of fascism before it travelled to her home.
 
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+Her leadership in these two groups had her travel to various sectors of the granda front. This traveling brought her to areas where she would eventually join in combat during the civil war.
 
 
 ## Life on the Front Lines
