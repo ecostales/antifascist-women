@@ -11,7 +11,7 @@ summary: Lina Odena was the most well known miliciana during the Spanish Civil W
 
 The miliciana are heroic women fighters during the Spanish Civil War. They were heroic figures that became a symbol of the mobilization of the Spanish people against fascism. Lina Odena was the most well-known miliciana during this time. 
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+She demonstrated the violent actions during the antifascist resistance. She practiced antifascism as a communist activist and in combat in the front-lines during the civil war.
 
 ## Spanish Civil War Context
 
