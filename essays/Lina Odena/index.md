@@ -75,7 +75,7 @@ These cards were used to influence other woman and communists to fight in the wa
   image-path="images/lina_odena_3.jpg"
   image-position="left"
   image-width="48%"
-  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+  caption="Front of card with a picture of Lina Odena. Lluís Serra Sancho Collection."
   text=after_death_text
 %}
 
