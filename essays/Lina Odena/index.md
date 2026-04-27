@@ -13,12 +13,13 @@ The miliciana are heroic women fighters during the Spanish Civil War. They were 
 
 She demonstrated the violent actions during the antifascist resistance. She practiced antifascism as a communist activist and in combat in the front-lines during the civil war.
 
+
 ## Spanish Civil War Context
 
 {% capture chile_origins_text %}
 The Spanish Civil War was triggered on July 13, 1936 with the assassination of anti-republican leader Jose Calvo Sotelo. He was assassinated in retaliation. On July 18, 1936, the nationalist military had a rebellion and uprising to determine who was going to be in charge of what. The republic failed to crush the rising in the first 48 hours which is the start of the war.
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+Fascism was brought during the civil war by Franco. His regime began to repel legislation that expanded women's rights. Women were imprisoned, exiled, and executed when resisting. Women started to fight in the civil war and against fascism with the introduction of Franco's fascist ideas.
 {% endcapture %}
 
 {% include images/figure-wrap.html
