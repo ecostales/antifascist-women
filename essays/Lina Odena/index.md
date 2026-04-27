@@ -62,8 +62,8 @@ Odena died on the Granda front in the Guadix sector on September 13, 1936. She a
 
 {% include images/figure-wrap.html
   image-path="images/lina_odena_3.jpg"
-  image-position="right"
-  image-width="45%"
+  image-position="left"
+  image-width="48%"
   caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
 %}
 
