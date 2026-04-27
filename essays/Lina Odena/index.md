@@ -102,4 +102,5 @@ Each represents a different moment in the chile's journey from wild plant to cul
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Sources:** 
+Photos: Valles, Eduard. Lina Odena, the legend of the militiawoman who committed suicide, and the mayor of el prat. Museu Nacional D'Art De Catalunya, 2023.
