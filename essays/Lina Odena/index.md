@@ -46,6 +46,7 @@ Her leadership in these two groups had her travel to various sectors of the gran
 {% capture chile_nm_text %}
 As a miliciana, she helped organize other milicianas in Almeria. She travelled to many different areas, some that she had visited before when she was apart of the communist organizations, and others that were entirely new to her. She led groups of milicanas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. 
 
+
 She was able to achieve the post of commandant somewhere along her career by her prior experience in leadership. Her leadership skills in the Juventudes Socialistas Unificadas and the National Committee of Antifascist Women applied to her leadership of her fellow milicianas. 
 {% endcapture %}
 
@@ -65,7 +66,9 @@ Odena died on the Granda front in the Guadix sector on September 13, 1936. She a
 {% capture after_death_text %}
 Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
-A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. These cards were used to influence other woman and communists to fight in the war and join Odena with their bravery. 
+A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. 
+
+These cards were used to influence other woman and communists to fight in the war and join Odena with their bravery. 
 {% endcapture %} 
 
 {% include images/figure-wrap.html
