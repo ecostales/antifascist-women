@@ -65,7 +65,6 @@ Odena died on the Granda front in the Guadix sector on September 13, 1936. She a
   image-position="left"
   image-width="48%"
   caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
-  text=chile_origins_text
 %}
 
 Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
