@@ -58,7 +58,14 @@ As a miliciana, she helped organize other milicianas in Almeria. She led groups 
 
 ## Impact After Death
 
-Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselvesin the head in fear of being taken prisoner. When captured, torture was expected to happen. 
+Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselvesin the head in fear of being taken prisoner. When captured, torture was expected to happen.
+
+{% include images/figure-wrap.html
+  image-path="images/lina_odena_3.jpg"
+  image-position="right"
+  image-width="45%"
+  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+%}
 
 Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
