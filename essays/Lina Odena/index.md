@@ -29,8 +29,6 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
-
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
 
@@ -68,16 +66,16 @@ Odena died on the Granda front in the Guadix sector on September 13, 1936. She a
 Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
 {% include images/figure-wrap.html
-  image-path="images/lina_odena_1.jpg"
+  image-path="images/lina_odena_3.jpg"
   image-position="left"
   image-width="48%"
-  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+  caption="Front of communist card with picture of Lina Odena. Lluís Serra Sancho Collection."
   text=chile_origins_text
 %}
 
 A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls. Other pieces depicted miliciana women in general to call pople to help them fight. Odena's popularity brought attention to the milicianas as a whole. 
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% assign images_list = "images/lina_odena_4.jpg,images/miliciana_woman_1.jpg,images/miliciana_woman_2.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 These mythologies after her death, feminized her by focusing on her feminine virtues and framed her sucicde as a decision to protect her virtues against rape. Her effort in combat was just as important. Her contribution on the front lines inspired other women to take actions and join the miliciana team during the Spanish Civl War.
