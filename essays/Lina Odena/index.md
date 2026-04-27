@@ -66,8 +66,6 @@ Her death was presented as death in action and was constantly evoked as the arch
 A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her.
 {% endcapture %} 
 
-Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls (photo 1 below). Other pieces depicted miliciana women in general to call pople to help them fight (photo 2 below). Even photography of miliciana women were taken (photo 3 below). Odena's popularity brought attention to the milicianas as a whole. 
-
 {% include images/figure-wrap.html
   image-path="images/lina_odena_3.jpg"
   image-position="left"
@@ -75,6 +73,8 @@ Many pieces of artwork were made in her honor. One piece by J.Pons, who made an 
   caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
   text=after_death_text
 %}
+
+Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls (photo 1 below). Other pieces depicted miliciana women in general to call pople to help them fight (photo 2 below). Even photography of miliciana women were taken (photo 3 below). Odena's popularity brought attention to the milicianas as a whole. 
 
 {% assign images_list = "images/lina_odena_4.jpg,images/miliciana_woman_1.jpg,images/miliciana_woman_2.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
