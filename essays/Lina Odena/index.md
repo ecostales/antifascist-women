@@ -20,6 +20,8 @@ She demonstrated the violent actions during the antifascist resistance. She prac
 The Spanish Civil War was triggered on July 13, 1936 with the assassination of anti-republican leader Jose Calvo Sotelo. He was assassinated in retaliation. On July 18, 1936, the nationalist military had a rebellion and uprising to determine who was going to be in charge of what. The republic failed to crush the rising in the first 48 hours which is the start of the war.
 
 Fascism was brought during the civil war by Franco. His regime began to repel legislation that expanded women's rights. Women were imprisoned, exiled, and executed when resisting. Women started to fight in the civil war and against fascism with the introduction of Franco's fascist ideas.
+
+When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -29,8 +31,6 @@ Fascism was brought during the civil war by Franco. His regime began to repel le
   caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
   text=chile_origins_text
 %}
-
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
 
 ## Early Life
