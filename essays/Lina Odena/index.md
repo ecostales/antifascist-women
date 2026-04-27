@@ -59,8 +59,6 @@ As a miliciana, she helped organize other milicianas in Almeria. She led groups 
 
 Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselvesin the head in fear of being taken prisoner. When captured, torture was expected to happen. 
 
-Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
-
 {% include images/figure-wrap.html
   image-path="images/lina_odena_3.jpg"
   image-position="left"
@@ -69,7 +67,9 @@ Her death was presented as death in action and was constantly evoked as the arch
   text=chile_origins_text
 %}
 
-A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls. Other pieces depicted miliciana women in general to call pople to help them fight. Odena's popularity brought attention to the milicianas as a whole. 
+Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
+
+A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls (photo 1 below). Other pieces depicted miliciana women in general to call pople to help them fight (photo 2 below). Even photography of miliciana women were taken (photo 3 below). Odena's popularity brought attention to the milicianas as a whole. 
 
 {% assign images_list = "images/lina_odena_4.jpg,images/miliciana_woman_1.jpg,images/miliciana_woman_2.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
