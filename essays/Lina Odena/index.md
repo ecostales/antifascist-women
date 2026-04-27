@@ -45,7 +45,7 @@ Her leadership in these two groups had her travel to various sectors of the gran
 ## Life on the Front Lines
 
 {% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+As a miliciana, she helped organize other milicianas in Almeria. She led groups of milicanas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. She was able to achieve the post of commandant somewhere along her career by her prior experience in leadership in communist organizations. 
 
 Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
 
@@ -53,7 +53,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/lina_odena_2.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
@@ -63,11 +63,24 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 
 ## Impact After Death
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselvesin the head in fear of being taken prisoner. When captured, torture was expected to happen. 
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
+Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+{% include images/figure-wrap.html
+  image-path="images/lina_odena_1.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+  text=chile_origins_text
+%}
+
+A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls. Other pieces depicted miliciana women in general to call pople to help them fight. Odena's popularity brought attention to the milicianas as a whole. 
+
+{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% include images/carousel.html id="chile-types" images=images_list %}
+
+These mythologies after her death, feminized her by focusing on her feminine virtues and framed her sucicde as a decision to protect her virtues against rape. Her effort in combat was just as important. Her contribution on the front lines inspired other women to take actions and join the miliciana team during the Spanish Civl War.
 
 
 ## Modern Variations and Challenges
@@ -88,17 +101,6 @@ The carousel below shows the diversity of modern chile culture:
 - Heirloom preservation varieties: grown specifically to maintain genetic diversity
 
 Each represents a different moment in the chile's journey from wild plant to cultural icon.
-
-
-## The Future of Southwest Identity
-
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
-
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
 
 ---
 
