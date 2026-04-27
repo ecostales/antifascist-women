@@ -44,10 +44,6 @@ Her leadership in these two groups had her travel to various sectors of the gran
 
 {% capture chile_nm_text %}
 As a miliciana, she helped organize other milicianas in Almeria. She led groups of milicanas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. She was able to achieve the post of commandant somewhere along her career by her prior experience in leadership in communist organizations. 
-
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -79,26 +75,6 @@ A battalion was named after her and her face was printed on cards, calendars, an
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 These mythologies after her death, feminized her by focusing on her feminine virtues and framed her sucicde as a decision to protect her virtues against rape. Her effort in combat was just as important. Her contribution on the front lines inspired other women to take actions and join the miliciana team during the Spanish Civl War.
-
-
-## Modern Variations and Challenges
-
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
-
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
-
-The carousel below shows the diversity of modern chile culture:
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
 
 ---
 
