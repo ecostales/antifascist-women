@@ -17,7 +17,7 @@ She demonstrated the violent actions during the antifascist resistance. She prac
 ## Spanish Civil War Context
 
 {% capture chile_origins_text %}
-The Spanish Civil War was fought been the Republicans and the Nationalists. The Republics were led by General Francisco Franco and the Nationalists were the rebels. Franco was backed up by Nazi Germany and Fascist Italy. He planned to bring these ideals to Spain. The Nationalists fought against Franco because they didn't want a dictatorship.
+The Spanish Civil War was fought between the Republicans and the Nationalists. The Republics were led by General Francisco Franco and the Nationalists were the rebels. Franco was backed up by Nazi Germany and Fascist Italy. He planned to bring these ideals to Spain. The Nationalists fought against Franco because they didn't want a dictatorship.
 
 The Spanish Civil War was triggered on July 13, 1936 with the assassination of anti-republican leader Jose Calvo Sotelo. He was assassinated in retaliation. On July 18, 1936, the nationalist military had a rebellion and uprising. The republic failed to crush the rising in the first 48 hours which is the start of the war.
 
