@@ -44,7 +44,7 @@ Her leadership in these two groups had her travel to various sectors of the gran
 ## Life on the Front Lines
 
 {% capture chile_nm_text %}
-As a miliciana, she helped organize other milicianas in Almeria. She travelled to many different areas, some that she had visited before when she was apart of the communist organizations, and others that were entirely new to her. She led groups of milicanas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. 
+As a miliciana, she helped organize other milicianas in Almeria. She travelled to many different areas, some that she had visited before when she was apart of the communist organizations, and others that were entirely new to her. She led groups of milicianas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. 
 
 
 She was able to achieve the post of commandant somewhere along her career by her prior experience in leadership. Her leadership skills in the Juventudes Socialistas Unificadas and the National Committee of Antifascist Women applied to her leadership of her fellow milicianas. 
@@ -61,14 +61,14 @@ She was able to achieve the post of commandant somewhere along her career by her
 
 ## Impact After Death
 
-Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselvesin the head in fear of being taken prisoner. When captured, torture was expected to happen.
+Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselves in the head in fear of being taken prisoner. When captured, torture was expected to happen.
 
 {% capture after_death_text %}
-Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a republican war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
+Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a  war egend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
-A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcards depicted Odena in the Center with the JSU flag and the caption behind her. 
+A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcard on the left depicted Odena in the center with the JSU flag and the caption behind her. 
 
-These cards were used to influence other woman and communists to fight in the war and join Odena with their bravery. 
+These cards were used to influence other women and communists to fight in the war and join Odena with their bravery. 
 {% endcapture %} 
 
 {% include images/figure-wrap.html
@@ -79,12 +79,12 @@ These cards were used to influence other woman and communists to fight in the wa
   text=after_death_text
 %}
 
-Many pieces of artwork were made in her honor. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls (photo 1 below). Other pieces depicted miliciana women in general to call pople to help them fight (photo 2 below). Even photography of miliciana women were taken (photo 3 below). Odena's popularity brought attention to the milicianas as a whole. 
+Many pieces of artwork were influeced by her. One piece by J.Pons, who made an oil painting portrait of Odena in her miliciana overalls (photo 1 below). Other pieces depicted miliciana woman to call people to help them fight (photo 2 below). Even photography of miliciana women were taken (photo 3 below). Odena's popularity brought attention to the milicianas as a whole. 
 
 {% assign images_list = "images/lina_odena_4.jpg,images/miliciana_woman_1.jpg,images/miliciana_woman_2.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
-These mythologies after her death, feminized her by focusing on her feminine virtues and framed her sucicde as a decision to protect her virtues against rape. Her effort in combat was just as important. Her contribution on the front lines inspired other women to take actions and join the miliciana team during the Spanish Civl War.
+These mythologies after her death, feminized her by focusing on her feminine virtues and framed her sucicde as a decision to protect her virtues against rape. Her effort in combat was just as important. Her contribution on the front lines inspired other women to take action and join the miliciana team during the Spanish Civl War.
 
 ---
 
