@@ -64,7 +64,7 @@ She was able to achieve the post of commandant somewhere along her career by her
 Odena died on the Granda front in the Guadix sector on September 13, 1936. She and a fellow companion were driving when they took a wrong turn. They approached an army checkpoint with Falangist soldiers. After trying to get away, she and her companion shot themselves in the head in fear of being taken prisoner. When captured, torture was expected to happen.
 
 {% capture after_death_text %}
-Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a  war egend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
+Her death was presented as death in action and was constantly evoked as the archetype of female heroism. She was viewed as a  war legend and a propaganda weapon. She exemplified the war rhetoric of the message of courage and bravery of resistance within the Spanish Civil War. Her suicide was reported in communist, socialist, and independent press as a brave and noble act.
 
 A battalion was named after her and her face was printed on cards, calendars, and stamps. She was on Communist postcards with the caption "Heroine of the Youth". The postcard on the left depicted Odena in the center with the JSU flag and the caption behind her. 
 
