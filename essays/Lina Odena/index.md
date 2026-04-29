@@ -28,7 +28,7 @@ Fascism was brought during the civil war by Franco. His regime began to repel le
   image-path="images/lina_odena_1.jpg"
   image-position="left"
   image-width="48%"
-  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+  caption="Photograph of Lina Odena taken between July and September 1936, shortly before her death."
   text=chile_origins_text
 %}
 
@@ -54,7 +54,7 @@ She was able to achieve the post of commandant somewhere along her career by her
   image-path="images/lina_odena_2.jpg"
   image-position="right"
   image-width="45%"
-  caption="Photograph of Lina Odena taken between July and November 1936, shortly before her death."
+  caption="Photograph of Lina Odena taken between July and September 1936, shortly before her death."
   text=chile_nm_text
 %}
 
