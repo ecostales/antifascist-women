@@ -88,9 +88,14 @@ These mythologies after her death, feminized her by focusing on her feminine vir
 
 ---
 
-**Sources:** 
+**Sources:**   
 
-Photos: Valles, Eduard. Lina Odena, the legend of the militiawoman who committed suicide, and the mayor of el prat. Museu Nacional D'Art De Catalunya, 2023. 
+Broue, Pierre, & Emile Temime. The Revolution and the Civil War in Spain. La revolution et la guerre d’Espagne, 1970.
 
-Information: Broue, Pierre, & Emile Temime. The Revolution and the Civil War in Spain. La revolution et la guerre d’Espagne, 1970. / Lines, Lisa. Female Combatants in the Spanish Civil War: Milicianas on the Front Lines and in Rearguard. Journal of International Women’s Studies, 2009. / Melvor, Jessica Elizabeth. Photography, War and Gender: Redefining Women’s Militancy During and After Conflict in Ireland and Spain. PhD diss, 2022. / Nash, Mary. ‘Milicianas’ and Homefront Heroines: Images of Women in Revolutionary Spain (1936-1939) History of European Ideas 11, 1989.
+Lines, Lisa. Female Combatants in the Spanish Civil War: Milicianas on the Front Lines and in Rearguard. Journal of International Women’s Studies, 2009.
 
+Melvor, Jessica Elizabeth. Photography, War and Gender: Redefining Women’s Militancy During and After Conflict in Ireland and Spain. PhD diss, 2022.
+
+Nash, Mary. ‘Milicianas’ and Homefront Heroines: Images of Women in Revolutionary Spain (1936-1939) History of European Ideas 11, 1989.
+
+Valles, Eduard. Lina Odena, the legend of the militiawoman who committed suicide, and the mayor of el prat. Museu Nacional D'Art De Catalunya, 2023.
