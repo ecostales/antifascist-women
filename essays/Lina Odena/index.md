@@ -44,7 +44,7 @@ Her leadership in these two groups had her travel to various sectors of the gran
 ## Life on the Front Lines
 
 {% capture chile_nm_text %}
-As a miliciana, she helped organize other milicianas in Almeria. She travelled to many different areas, some that she had visited before when she was apart of the communist organizations, and others that were entirely new to her. She led groups of milicianas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. 
+As a miliciana, she helped organize other milicianas in Almeria. She travelled to many different areas, some that she had visited before when she was a part of the communist organizations, and others that were entirely new to her. She led groups of milicianas into battle and accompanied them on the front lines. Some specific areas she fought was in the south of Spain, including various sectors of the Grana Front and in Guadix. 
 
 
 She was able to achieve the post of commandant somewhere along her career by her prior experience in leadership. Her leadership skills in the Juventudes Socialistas Unificadas and the National Committee of Antifascist Women applied to her leadership of her fellow milicianas. 
