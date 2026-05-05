@@ -34,7 +34,7 @@ Fascism was brought during the civil war by Franco. His regime began to repel le
 
 
 ## Early Life
-Odena was an active member of the Spanish Communists Party and participated in politics. This party had been barely developed before the Civil War but she was an active participant. She was the leader of the Juventudes Socialistas Unificadas (JSU), which is the Communist Youth Movement. This organization was a part of the Communist Party in Spain. 
+Odena was born on January 22, 1911 in Barcelona, Spain. She was an active member of the Spanish Communists Party and participated in politics. This party had been barely developed before the Civil War but she was an active participant. She was the leader of the Juventudes Socialistas Unificadas (JSU), which is the Communist Youth Movement. This organization was a part of the Communist Party in Spain. 
 
 She was also the Secretary General of the National Committee of Antifascist Women. Her participation in these organizations had her recognize the threat of fascism before it travelled to her home.
 
@@ -89,4 +89,6 @@ These mythologies after her death, feminized her by focusing on her feminine vir
 ---
 
 **Sources:** 
-Photos: Valles, Eduard. Lina Odena, the legend of the militiawoman who committed suicide, and the mayor of el prat. Museu Nacional D'Art De Catalunya, 2023.
+Photos: Valles, Eduard. Lina Odena, the legend of the militiawoman who committed suicide, and the mayor of el prat. Museu Nacional D'Art De Catalunya, 2023. 
+Information: Broue, Pierre, & Emile Temime. The Revolution and the Civil War in Spain. La revolution et la guerre d’Espagne, 1970. / Lines, Lisa. Female Combatants in the Spanish Civil War: Milicianas on the Front Lines and in Rearguard. Journal of International Women’s Studies, 2009. / Melvor, Jessica Elizabeth. Photography, War and Gender: Redefining Women’s Militancy During and After Conflict in Ireland and Spain. PhD diss, 2022. / Nash, Mary. ‘Milicianas’ and Homefront Heroines: Images of Women in Revolutionary Spain (1936-1939) History of European Ideas 11, 1989.
+
